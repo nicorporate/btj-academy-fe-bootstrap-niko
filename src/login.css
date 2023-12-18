@@ -1,0 +1,12 @@
+#rotating-image {
+  transition: transform 1s ease;
+  cursor: pointer;
+}
+
+.errors {
+  color: red;
+}
+
+.hidden {
+  display: none;
+}
